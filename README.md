@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nebi Soydal</h1>
-<h3 align="center">-Jr.Data Engineer -Web3 Lover and AI</h3>
+<h3 align="center">-Jr.Data Engineer -Web3 and AI Lover </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebisoydal&label=Profile%20views&color=0e75b6&style=flat" alt="nebisoydal" /> </p>
 
